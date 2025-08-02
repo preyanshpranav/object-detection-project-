@@ -33,7 +33,7 @@ object-detection-project/
 
 ## 🔗 Subproject Links
 
-- 📷 [Haar Cascade Face Detection](./haar-cascade/README.md)
+- 📷 [Haar Cascade Face Detection](./haar-cascade)
 - 🧠 [YOLO Object Detection](./yolo/README.md)
 
 ---
