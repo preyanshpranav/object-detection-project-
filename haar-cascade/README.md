@@ -26,9 +26,9 @@ pip install opencv-python
 ```
 
 🚀 Run the Code
-•Download the Haar cascade XML file: [haarcascade_frontalface_default.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
-•Place it in the same directory as the Python script.
-•Run the script:
+1. Download the Haar cascade XML file: [haarcascade_frontalface_default.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
+2. Place it in the same directory as the Python script.
+3. Run the script:
 ```bash
   python face_detect.py
 ```
