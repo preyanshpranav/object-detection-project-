@@ -44,5 +44,5 @@ haar-cascade/
 ```
 
 📝 Notes
-• This method is fast and works well for basic face detection.
-• It’s not suitable for detecting multiple object types or high-accuracy use cases.
+- This method is fast and works well for basic face detection.
+- It’s not suitable for detecting multiple object types or high-accuracy use cases.
