@@ -35,11 +35,14 @@ pip install opencv-python
 You should see a window with your webcam feed and rectangles around detected faces.
 
 📁 File Structure
+
+```bash
 haar-cascade/
-├── face_detect.py                      # Main Python script  
-├── haarcascade_frontalface_default.xml  # Haar cascade model  
+├── face_detect.py                      # Main Python script
+├── haarcascade_frontalface_default.xml # Haar cascade model
 └── README.md
+```
 
 📝 Notes
-•This method is fast and works well for basic face detection.
-•It’s not suitable for detecting multiple object types or high-accuracy use cases.
+• This method is fast and works well for basic face detection.
+• It’s not suitable for detecting multiple object types or high-accuracy use cases.
